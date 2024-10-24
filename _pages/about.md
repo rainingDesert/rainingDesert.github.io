@@ -15,7 +15,7 @@ redirect_from:
 
 Publication
 ======
-* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning
+* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning ??
 Yuanlin Duan, **Guofeng Cui**, He Zhu,
 Neural Information Processing Systems 2021 (**NeurIPS 2024**)
 
