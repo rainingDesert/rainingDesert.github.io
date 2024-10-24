@@ -16,7 +16,7 @@ redirect_from:
 Publication
 ======
 * Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning
-Yuanlin Duan, ** Guofeng Cui **, He Zhu,
+Yuanlin Duan, **Guofeng Cui**, He Zhu,
 Neural Information Processing Systems 2021 (**NeurIPS 2024**)
 
 * Reward-Guided Synthesis of Intelligent Agents with Control Structures [[pdf](https://dl.acm.org/doi/pdf/10.1145/3656447)]
