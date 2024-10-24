@@ -15,32 +15,46 @@ redirect_from:
 
 Publication
 ======
-* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning ??
-Yuanlin Duan, **Guofeng Cui**, He Zhu,
+* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning; 
+
+Yuanlin Duan, **Guofeng Cui**, He Zhu; 
+
 Neural Information Processing Systems 2021 (**NeurIPS 2024**)
 
-* Reward-Guided Synthesis of Intelligent Agents with Control Structures [[pdf](https://dl.acm.org/doi/pdf/10.1145/3656447)]
-**Guofeng Cui**, Yuning Wang, Wenjie Qiu, He Zhu,
+* Reward-Guided Synthesis of Intelligent Agents with Control Structures [[pdf](https://dl.acm.org/doi/pdf/10.1145/3656447)]; 
+
+**Guofeng Cui**, Yuning Wang, Wenjie Qiu, He Zhu; 
+
 ACM SIGPLAN Conference on Programming Language Design and Implementation, 2024 (**PLDI 2024**)
 
-* Differentiable Synthesis of Program Architecture [[pdf](https://openreview.net/pdf?id=ivXd1iOKx9M)]
-**Guofeng Cui**, He Zhu, 
+* Differentiable Synthesis of Program Architecture [[pdf](https://openreview.net/pdf?id=ivXd1iOKx9M)]; 
+
+**Guofeng Cui**, He Zhu; 
+
 Neural Information Processing Systems 2021 (**NeurIPS 2021**)
 
-* Improve CAM with Auto-adapted Sementation and Co-supervised Augmentation [[pdf](https://arxiv.org/abs/1911.07160)]
-Ziyi kou, **Guofeng Cui**, Shaojie Wang, Wentian Zhao, Chenliang Xu
+* Improve CAM with Auto-adapted Sementation and Co-supervised Augmentation [[pdf](https://arxiv.org/abs/1911.07160)]; 
+
+Ziyi kou, **Guofeng Cui**, Shaojie Wang, Wentian Zhao, Chenliang Xu; 
+
 Proceedings of the IEEE/CVF Winter Conference on Application of Computer Vision 2021 (**WACV 2021**)
 
-* Talking-head Generation with Rhythmic Head Motion [[pdf](https://arxiv.org/abs/2007.08547)]
-Lele Chen, **Guofeng Cui**, Celong Liu, Zhong Li, Ziyi Kou, Yi Xu, Chenliang Xu
+* Talking-head Generation with Rhythmic Head Motion [[pdf](https://arxiv.org/abs/2007.08547)]; 
+
+Lele Chen, **Guofeng Cui**, Celong Liu, Zhong Li, Ziyi Kou, Yi Xu, Chenliang Xu; 
+
 European Conference on Computer Vision 2020 (**ECCV 2020**)
 
-* What Comprises a Good Talking-head Video Generation? [[pdf](https://arxiv.org/abs/2005.03201)]
-Lele Chen, **Guofeng Cui**, Ziyi Kou, Haitian Zheng, Chenliang Xu
+* What Comprises a Good Talking-head Video Generation? [[pdf](https://arxiv.org/abs/2005.03201)]; 
+
+Lele Chen, **Guofeng Cui**, Ziyi Kou, Haitian Zheng, Chenliang Xu; 
+
 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2020 (**CVPR Workshops 2020**)
 
-* Improving the efficiency of thermal covert channels in multi-/many-core systems [[pdf](https://ieeexplore.ieee.org/abstract/document/8342241)]
-Zijun Long, Xiaohang Wang, Yingtao Jiang, **Guofeng Cui**, Li Zhang, Terrence S. T. Mak
+* Improving the efficiency of thermal covert channels in multi-/many-core systems [[pdf](https://ieeexplore.ieee.org/abstract/document/8342241)];
+
+Zijun Long, Xiaohang Wang, Yingtao Jiang, **Guofeng Cui**, Li Zhang, Terrence S. T. Mak;
+
 2018 Design, Automation Test in Europe Conference Exhibition (**DATE 2018**)
 
 Experience
