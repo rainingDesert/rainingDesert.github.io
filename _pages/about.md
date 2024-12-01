@@ -15,7 +15,7 @@ redirect_from:
 
 Publication
 ======
-* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning; 
+* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning [[pdf](https://arxiv.org/abs/2411.01396)]; ; 
 Yuanlin Duan, **Guofeng Cui**, He Zhu; 
 Neural Information Processing Systems 2021 (**NeurIPS 2024**)
 
@@ -45,6 +45,7 @@ Zijun Long, Xiaohang Wang, Yingtao Jiang, **Guofeng Cui**, Li Zhang, Terrence S.
 
 Experience
 ======
+* **Reviewer** for CVPR 2025. (2024.12)
 * **Reviewer** for ICLR 2025. (2024.10)
 * **Applied Scientist Intern** in Amazon Prime Video (Mentor: Pichao Wang) (2024.06 - 2024.09)
 * **Reviewer** for AAAI 2024. (2023.11 )
