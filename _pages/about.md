@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-* I am a fifth-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [He Zhu](https://herowanzhu.github.io/). My research interests involve reinforcement learning, computer vision, programming language and machine learning. I investigate to increase efficiency of neural program synthesis and apply programs of neural module to enhance robustness and interpretability of reinforcement learning policy. I also investigate to apply reinforcement learning methods for performance enhancing of deep learning models, including large language model finetuning, active learning, etc..
+* I am a fifth-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [He Zhu](https://herowanzhu.github.io/). My research interests involve reinforcement learning, computer vision, programming language and machine learning. I investigate to increase efficiency of neural program synthesis and apply programs of neural module to enhance robustness and interpretability of reinforcement learning policy. I also investigate to apply reinforcement learning methods for performance enhancing of deep learning models, including large language model, active learning, etc..
 
 * I obtained my Master's degree from University of [Rochester CS](https://www.cs.rochester.edu/), advised by Prof. [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
 
 
 Publication
 ======
-* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning [[pdf](https://arxiv.org/abs/2411.01396)]; ; 
+* CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation [[pdf](https://arxiv.org/abs/2501.13927)];
+**Guofeng Cui**, Pichao Wang, Yang Liu, Zemian Ke, Zhu Liu, Vimal Bhat;
+ArXiv 2025
+
+* Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning [[pdf](https://arxiv.org/abs/2411.01396)];
 Yuanlin Duan, **Guofeng Cui**, He Zhu; 
 Neural Information Processing Systems 2021 (**NeurIPS 2024**)
 
@@ -45,6 +49,7 @@ Zijun Long, Xiaohang Wang, Yingtao Jiang, **Guofeng Cui**, Li Zhang, Terrence S.
 
 Experience
 ======
+* **Reviewer** for ICCV 2025. (2025.03)
 * **Reviewer** for CVPR 2025. (2024.12)
 * **Reviewer** for ICLR 2025. (2024.10)
 * **Applied Scientist Intern** in Amazon Prime Video (Mentor: Pichao Wang) (2024.06 - 2024.09)
